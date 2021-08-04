@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Garin de Monglane (Paris MS)</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>From BNF MS 24403, folios 1-118, xxxx</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <pb n="1r1"/>
+               <l>Laisse I (1)</l>
+         <lg>
+               <l><supplied reason="faded-ink">O</supplied>iés segnor por <persName>Dieu</persName> <supplied reason="omitted">le voir</supplied> omnipotent,</l>
+               <l>Que <persName>Damediex</persName> vos doinst honor et joie grant!</l>
+               <l>Oï avés canter de <persName>Bernart de <placeName>Braibant</placeName></persName>,</l>
+               <l>Et d'<persName>Ernaut de <placeName>Beaulande</placeName></persName>, d'<persName>Aimeri</persName>, son enfant</l>
+               <l>De <persName>Gerart de <placeName>Viane</placeName></persName> a l'orgoillox samblant,</l>
+               <l>Et de <persName>Renier de <placeName>Genvez</placeName></persName> que <persName>Dex</persName> parama tant,</l>
+               <l>Ki fu pere <persName>Olivier</persName> le compaignon <persName>Rolant</persName>,</l>
+               <l>De <persName>Guillame</persName>, de <persName>Fouke</persName> et du preu <persName>Viviant</persName></l>
+               <l>Et de la fiere geste dont cantent li auquant</l>
+               <l>Ki tant soffri de paine sor sarrasine gent.</l>
+               <l>Mais tot en ont laisié le grant commencement</l>
+               <l>De <persName>Garin de <placeName>Monglane</placeName></persName>, le chevalier vaillant,</l>
+               <l>Dont issi cele gent dont on parole tant.</l>
+               <l>Ja sarés <choice><corr>qui</corr><sic>dont</sic></choice> il fu et dont et de quel gent,</l>
+               <l>Et comment il conquist <placeName>Monglane</placeName> et <placeName>Montirant</placeName></l>
+               <l>Et la tere environ une jornee grant</l>
+               <l>Qu'en ice tans tenoient felon et souduiant,</l>
+               <l>Et qui fu cele dame dont furent li enfant</l>
+               <l>Que on apele geste tres le commencement</l>
+               <l>El roiaume de <placeName>France</placeName>.</l>
+         </lg>
+      </body>
+  </text>
+</TEI>
